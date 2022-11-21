@@ -11,7 +11,7 @@
             {
               "imageurl": "https://i.pinimg.com/originals/d3/71/c6/d371c6bd02967ccd1922b77c2f3539e8.jpg",
               "title": "sneakers",
-              "quantity": 3,
+              "quantity": 1,
               "currencySymbol": "£",
               "itemPrice": 4.29
             }
@@ -19,6 +19,30 @@
         },
         {
           "itemNo": 2,
+          "productDetails": [
+            {
+              "imageurl": "https://i.pinimg.com/originals/d3/71/c6/d371c6bd02967ccd1922b77c2f3539e8.jpg",
+              "title": "sneakers",
+              "quantity": 15,
+              "currencySymbol": "£",
+              "itemPrice": 4.29
+            }
+          ]
+        },
+        {
+          "itemNo": 3,
+          "productDetails": [
+            {
+              "imageurl": "https://i.pinimg.com/originals/d3/71/c6/d371c6bd02967ccd1922b77c2f3539e8.jpg",
+              "title": "sneakers",
+              "quantity": 3,
+              "currencySymbol": "£",
+              "itemPrice": 4.29
+            }
+          ]
+        },
+        {
+          "itemNo": 4,
           "productDetails": [
             {
               "imageurl": "https://www.promotionalgloves.com/image/catalog/blog/25%20Wildest%20Gloves/McDonalds%20Gloves.jpg",
